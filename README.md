@@ -4,4 +4,4 @@
 
 ## This repository contains notebooks of deep learning lessons.
 
-## (Introduction to Deep Learning with TensorFlow])[https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------]
+## (Introduction to Deep Learning with TensorFlow)[https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------]
