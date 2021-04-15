@@ -4,8 +4,11 @@
 
 ## Hello 😄This repository contains notebooks of deep learning lessons.
 
-## Medium (Eng) 👉  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+# Medium  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
 ## [Introduction to Deep Learning with TensorFlow](https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------)
 
+# Medium  [![](https://img.shields.io/badge/Medium-Turkish-purple.svg?&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
+
+## [TensorFlow ile Derin Öğrenmeye Giriş](https://tirendazakademi.medium.com/tensorflow-2-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-a1cb466a473c)
 
