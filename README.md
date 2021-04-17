@@ -16,3 +16,5 @@
 
 ## [TensorFlow 2 ile Resim Sınıflandırma](https://tirendazakademi.medium.com/tensorflow-2-ile-resim-s%C4%B1n%C4%B1fland%C4%B1rma-ae9670390254)
 
+## [Doğal Dil İşlemeye (NLP) Giriş](https://tirendazakademi.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-nlp-giri%C5%9F-214182725629)
+
