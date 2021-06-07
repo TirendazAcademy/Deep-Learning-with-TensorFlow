@@ -2,7 +2,7 @@
 
 ![](https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-## Hello 😄This repository contains notebooks of deep learning lessons.
+## Hello 😄This repository contains notebooks and YouTube videos of deep learning lessons.
 
 # Medium  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
@@ -18,11 +18,11 @@
 
 ## [Doğal Dil İşlemeye (NLP) Giriş](https://tirendazakademi.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-nlp-giri%C5%9F-214182725629)
 
-# [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
+# YouTube - Turkish [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 
 ## [TensorFlow ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=ySY4l37HUis)
 ## [TensorFlow ile Resim Sınıflandırma](https://www.youtube.com/watch?v=ySY4l37HUis)
 
-# [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
+# YouTube - English [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
 
 ## [Introduction to Deep Learning with TensorFlow 2](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
