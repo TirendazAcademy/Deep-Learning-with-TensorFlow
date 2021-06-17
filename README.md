@@ -8,9 +8,9 @@
 
 ## - [Introduction to Deep Learning with TensorFlow 2.x](https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------)
 
-## - [Sentiment Analysis with TensorFlow Hub](https://tirendazacademy.medium.com/sentiment-analysis-with-tensorflow-hub-678c30ac79a2)
-
 ## - [Image Classification with TensorFlow 2.x](https://tirendazacademy.medium.com/image-classification-with-tensorflow-2-54fc601dfb6a)
+
+## - [Sentiment Analysis with TensorFlow Hub](https://tirendazacademy.medium.com/sentiment-analysis-with-tensorflow-hub-678c30ac79a2)
 
 # Medium  [![](https://img.shields.io/badge/Medium-Turkish-purple.svg?&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
