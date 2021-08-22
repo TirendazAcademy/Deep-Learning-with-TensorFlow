@@ -31,7 +31,7 @@
 
 ## - [Introduction to Deep Learning with TensorFlow 2.x](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 
-# Kaggle Notebooks [![](https://img.shields.io/badge/Kaggle-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://kaggle.com/tirendazacademy)
+# Kaggle Notebooks [![](https://img.shields.io/badge/Kaggle-English-yellow?style=for-the-badge&logo=youtube&logoColor=white)](https://kaggle.com/tirendazacademy)
 
 ## - [Preparing Tabular Data for Training with TensorFlow 2](https://www.kaggle.com/tirendazacademy/preparing-tabular-data-with-tensorflow)
 ## - [Preparing Image Data for Processing with TensorFlow 2](https://www.kaggle.com/tirendazacademy/preparing-image-data-with-tensorflow-2-x)
