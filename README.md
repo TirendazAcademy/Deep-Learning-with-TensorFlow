@@ -4,7 +4,7 @@
 
 ## Hello 😄This repository contains notebooks and YouTube videos of deep learning lessons.
 
-# Medium  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+# Medium  [![](https://img.shields.io/badge/Medium-English-blue.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
 ## - [Introduction to Deep Learning with TensorFlow 2.x](https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------)
 
