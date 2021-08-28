@@ -2,7 +2,7 @@
 
 ![](https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-## Hello 😄This repository contains notebooks and YouTube videos of deep learning lessons.
+## Hello everyone 😎 This repository contains notebooks and YouTube videos of deep learning lessons.
 
 # Medium  [![](https://img.shields.io/badge/Medium-English-blue.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
@@ -28,8 +28,8 @@
 
 # YouTube - Turkish [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 
-## - [TensorFlow 2.x ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=ySY4l37HUis)
-## - [TensorFlow 2.x ile Resim Sınıflandırma](https://www.youtube.com/watch?v=ySY4l37HUis)
+## - [TensorFlow ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=ySY4l37HUis)
+## - [TensorFlow ile Resim Sınıflandırma](https://www.youtube.com/watch?v=ySY4l37HUis)
 
 # YouTube - English [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
 
