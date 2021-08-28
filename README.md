@@ -40,3 +40,4 @@
 ## - [Preparing Tabular Data for Training with TensorFlow 2](https://www.kaggle.com/tirendazacademy/preparing-tabular-data-with-tensorflow)
 ## - [Preparing Image Data for Processing with TensorFlow 2](https://www.kaggle.com/tirendazacademy/preparing-image-data-with-tensorflow-2-x)
 ## - [Transfer Learning with TensorFlow](https://www.kaggle.com/tirendazacademy/transfer-learning-with-tensorflow)
+## - [Data Pipeline with TensorFlow](https://www.kaggle.com/tirendazacademy/data-pipelines-with-tensorflow)
