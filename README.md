@@ -12,6 +12,8 @@
 
 ## - [Sentiment Analysis with TensorFlow Hub](https://tirendazacademy.medium.com/sentiment-analysis-with-tensorflow-hub-678c30ac79a2)
 
+## - [Data Pipeline with TensorFlow](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2?source=your_stories_page-------------------------------------)
+
 # Medium  [![](https://img.shields.io/badge/Medium-Turkish-purple.svg?&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
 ## - [TensorFlow 2.x ile Derin Öğrenmeye Giriş](https://tirendazakademi.medium.com/tensorflow-2-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-a1cb466a473c)
@@ -21,6 +23,8 @@
 ## - [TensorFlow 2.x ile Doğal Dil İşlemeye (NLP) Giriş](https://tirendazakademi.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-nlp-giri%C5%9F-214182725629)
 
 ## - [TensorFlow Hub ile Duygu Analizi](https://tirendazakademi.medium.com/tensorflow-hub-ile-duygu-analizi-6dced48f48a6)
+
+## - [TensorFlow ile Data Pipeline ](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2)
 
 # YouTube - Turkish [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 
@@ -35,4 +39,4 @@
 
 ## - [Preparing Tabular Data for Training with TensorFlow 2](https://www.kaggle.com/tirendazacademy/preparing-tabular-data-with-tensorflow)
 ## - [Preparing Image Data for Processing with TensorFlow 2](https://www.kaggle.com/tirendazacademy/preparing-image-data-with-tensorflow-2-x)
-## - [Transfer Learning with TensorFlowwith TensorFlow 2](https://www.kaggle.com/tirendazacademy/transfer-learning-with-tensorflow)
+## - [Transfer Learning with TensorFlow](https://www.kaggle.com/tirendazacademy/transfer-learning-with-tensorflow)
