@@ -2,7 +2,7 @@
 
 ![](https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-## Hello everyone 😎 This repository contains notebooks and YouTube videos of deep learning lessons.
+## Hello everyone 😎 This repository contains Medium blogs, Kaggles notebooks and YouTube videos of deep learning lessons.
 
 # Medium  [![](https://img.shields.io/badge/Medium-English-blue.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
