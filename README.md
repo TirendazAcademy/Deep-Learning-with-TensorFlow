@@ -30,6 +30,8 @@
 
 ## - [TensorFlow ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=ySY4l37HUis)
 ## - [TensorFlow ile Resim Sınıflandırma](https://www.youtube.com/watch?v=ySY4l37HUis)
+## - [TensorFlow ile Duygu Analizi](https://www.youtube.com/watch?v=XtHL13mBBIk)
+
 
 # YouTube - English [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
 
