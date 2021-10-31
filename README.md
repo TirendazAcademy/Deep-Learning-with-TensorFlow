@@ -14,6 +14,8 @@
 
 ## - [Data Pipeline with TensorFlow](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2?source=your_stories_page-------------------------------------)
 
+## - [7 Differences Between Deep Learning and Machine Learning](https://levelup.gitconnected.com/7-differences-between-deep-learning-and-machine-learningb5f2ff0ae00a?source=your_stories_page-------------------------------------)
+
 # Medium  [![](https://img.shields.io/badge/Medium-Turkish-purple.svg?&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
 ## - [TensorFlow ile Derin Öğrenmeye Giriş](https://tirendazakademi.medium.com/tensorflow-2-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-a1cb466a473c)
