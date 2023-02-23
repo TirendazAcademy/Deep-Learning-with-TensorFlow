@@ -12,16 +12,17 @@
 
 This repository contains notebooks about deep learning with TensorFlow. If you like this repo, give me a ✨.
 
+## 📌 YouTube-English [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
+
+- [Artificial neural networks](https://youtu.be/eOeKEOGlOf0)
+- [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
+
 ## 📌 YouTube-Turkish [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAkademi)
 
 - [TensorFlow ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TensorFlow ile Resim Sınıflandırma](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TensorFlow ile Duygu Analizi](https://www.youtube.com/watch?v=XtHL13mBBIk)
 - [TensorFlow ile Yapay Zeka Eğitimi](https://youtu.be/_M_LgQYyKxQ)
-
-## 📌 YouTube-English [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
-
-- [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 
 ## 📌 Medium-Turkish [![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
