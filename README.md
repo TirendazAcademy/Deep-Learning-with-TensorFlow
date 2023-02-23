@@ -26,6 +26,7 @@ This repository contains notebooks about deep learning with TensorFlow. If you l
 
 ## 📌 Medium-Turkish [![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
+- [Yapay Sinir Ağları](https://medium.com/@tirendazakademi/derin-öğrenme-için-yapay-sinir-ağları-24edd662dc73)
 - [TensorFlow ile Derin Öğrenmeye Giriş](https://tirendazakademi.medium.com/tensorflow-2-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-a1cb466a473c)
 - [TensorFlow ile Resim Sınıflandırma](https://tirendazakademi.medium.com/tensorflow-2-ile-resim-s%C4%B1n%C4%B1fland%C4%B1rma-ae9670390254)
 - [TensorFlow ile Doğal Dil İşlemeye (NLP) Giriş](https://tirendazakademi.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-nlp-giri%C5%9F-214182725629)
