@@ -14,11 +14,13 @@ This repository contains notebooks about deep learning with TensorFlow. If you l
 
 ## 📌 YouTube-English [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 
-- [Artificial neural networks](https://youtu.be/eOeKEOGlOf0)
+- [Artificial Neural Networks Explained](https://youtu.be/eOeKEOGlOf0)
+- [ANNs with Python](https://youtu.be/2CmFgOPeFFM)
 - [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 
 ## 📌 YouTube-Turkish [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAkademi)
 
+- [Python ile Yapay Sinir Ağları](https://youtu.be/NHs92Eh1y90)
 - [TensorFlow ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TensorFlow ile Resim Sınıflandırma](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TensorFlow ile Duygu Analizi](https://www.youtube.com/watch?v=XtHL13mBBIk)
