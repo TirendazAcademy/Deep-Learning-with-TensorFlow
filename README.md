@@ -8,17 +8,26 @@
 [![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Kaggle-0002A1?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
 
-*TensorFlow* is a machine learning and artificial intelligence library that is open source and free to use. It is designed to be versatile and can be applied to various tasks, but it is especially effective for training and running inference on deep neural networks.
+*TensorFlow* is a ML and AI library that is open source and free to use. It is designed to be versatile and can be applied to various tasks, but it is especially effective for training and running inference on deep neural networks.
 
-This repository contains notebooks about deep learning with TensorFlow. If you like this repo, give me a ✨.
+This repository contains notebooks, blog posts and YouTube videos about deep learning with TensorFlow. If you like this repo, give me a ✨.
 
-## 📌 YouTube-English [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
+## [![](https://img.shields.io/badge/YouTube-English-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 
 - [Artificial Neural Networks Explained](https://youtu.be/eOeKEOGlOf0)
 - [ANNs with Python](https://youtu.be/2CmFgOPeFFM)
 - [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 
-## 📌 YouTube-Turkish [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAkademi)
+## [![](https://img.shields.io/badge/Medium-English-darkorange?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+
+- [Introduction to Deep Learning with TensorFlow](https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------)
+- [Image Classification with TensorFlow](https://tirendazacademy.medium.com/image-classification-with-tensorflow-2-54fc601dfb6a)
+- [Sentiment Analysis with TensorFlow Hub](https://tirendazacademy.medium.com/sentiment-analysis-with-tensorflow-hub-678c30ac79a2)
+- [Data Pipeline with TensorFlow](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2?source=your_stories_page-------------------------------------)
+- [7 Differences Between Deep Learning and Machine Learning](https://levelup.gitconnected.com/7-differences-between-deep-learning-and-machine-learningb5f2ff0ae00a?source=your_stories_page-------------------------------------)
+- [ANNs in Machine Learning](https://medium.com/mlearning-ai/artificial-neural-networks-in-machine-learning-fa653d74b1a1)
+
+## [![](https://img.shields.io/badge/YouTube-Turkish-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAkademi)
 
 - [Python ile Yapay Sinir Ağları](https://youtu.be/NHs92Eh1y90)
 - [TensorFlow ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=ySY4l37HUis)
@@ -26,7 +35,7 @@ This repository contains notebooks about deep learning with TensorFlow. If you l
 - [TensorFlow ile Duygu Analizi](https://www.youtube.com/watch?v=XtHL13mBBIk)
 - [TensorFlow ile Yapay Zeka Eğitimi](https://youtu.be/_M_LgQYyKxQ)
 
-## 📌 Medium-Turkish [![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
+## [![](https://img.shields.io/badge/Medium-Turkish-darkorange?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
 - [Yapay Sinir Ağları](https://medium.com/@tirendazakademi/derin-öğrenme-için-yapay-sinir-ağları-24edd662dc73)
 - [TensorFlow ile Derin Öğrenmeye Giriş](https://tirendazakademi.medium.com/tensorflow-2-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-a1cb466a473c)
@@ -35,15 +44,7 @@ This repository contains notebooks about deep learning with TensorFlow. If you l
 - [TensorFlow Hub ile Duygu Analizi](https://tirendazakademi.medium.com/tensorflow-hub-ile-duygu-analizi-6dced48f48a6)
 - [TensorFlow ile Data Pipeline ](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2)
 
-## 📌 Medium-English [![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
-
-- [Introduction to Deep Learning with TensorFlow](https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------)
-- [Image Classification with TensorFlow](https://tirendazacademy.medium.com/image-classification-with-tensorflow-2-54fc601dfb6a)
-- [Sentiment Analysis with TensorFlow Hub](https://tirendazacademy.medium.com/sentiment-analysis-with-tensorflow-hub-678c30ac79a2)
-- [Data Pipeline with TensorFlow](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2?source=your_stories_page-------------------------------------)
-- [7 Differences Between Deep Learning and Machine Learning](https://levelup.gitconnected.com/7-differences-between-deep-learning-and-machine-learningb5f2ff0ae00a?source=your_stories_page-------------------------------------)
-
-## 📌 Kaggle Notebooks [![](https://img.shields.io/badge/Kaggle-0002A1?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
+## [![](https://img.shields.io/badge/Kaggle-Notebooks-0002A1?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
 
 - [Preparing Tabular Data for Training with TensorFlow 2](https://www.kaggle.com/tirendazacademy/preparing-tabular-data-with-tensorflow)
 - [Preparing Image Data for Processing with TensorFlow 2](https://www.kaggle.com/tirendazacademy/preparing-image-data-with-tensorflow-2-x)
