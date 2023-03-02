@@ -8,9 +8,17 @@
 [![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Kaggle-0002A1?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
 
-*TensorFlow* is a ML and AI library that is open source and free to use. It is designed to be versatile and can be applied to various tasks, but it is especially effective for training and running inference on deep neural networks.
+Welcome to the Deep Learning with Keras and TensorFlow repository!
 
-This repository contains notebooks, blog posts and YouTube videos about deep learning with TensorFlow. If you like this repo, give me a ✨.
+This repository is designed to provide a comprehensive introduction to deep learning using the Keras and TensorFlow frameworks. The main goal is to help users understand the basics of deep learning and build their own neural networks for a variety of tasks.
+
+The repository includes several Jupyter notebooks that cover different aspects of deep learning, such as building a simple neural network, training and testing a deep neural network, using convolutional neural networks (CNNs) for image classification, and using recurrent neural networks (RNNs) for sequence prediction. Each notebook contains detailed explanations and code examples, making it easy for users to follow along and understand the concepts.
+
+In addition to the notebooks, this repository also includes a set of pre-trained models that can be used for various applications, such as image classification, object detection, and text generation. These models can be easily downloaded and used for transfer learning or fine-tuning on new datasets.
+
+Whether you're a beginner or an experienced deep learning practitioner, this repository is a great resource for learning and experimenting with Keras and TensorFlow. We hope you find it useful and we welcome your feedback and contributions.
+
+If you like this repo, don't forget to give me a ✨.
 
 ## [![](https://img.shields.io/badge/YouTube-English-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 
