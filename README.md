@@ -23,6 +23,8 @@ If you like this repo, don't forget to give me a ✨.
 ## [![](https://img.shields.io/badge/YouTube-English-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 
 - [Artificial Neural Networks Explained](https://youtu.be/eOeKEOGlOf0)
+- [ANN with Python](https://youtu.be/2CmFgOPeFFM)
+- [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
 - [ANNs with Python](https://youtu.be/2CmFgOPeFFM)
 - [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
 - [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
@@ -38,9 +40,9 @@ If you like this repo, don't forget to give me a ✨.
 
 ## [![](https://img.shields.io/badge/YouTube-Turkish-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAkademi)
 
-- [Keras Functional API Kullanımı](https://youtu.be/IvpG5om38cw)
-- [Keras ile Resim Sınıflandırma](https://youtu.be/cXjMrIiCJMA)
 - [Python ile Yapay Sinir Ağları](https://youtu.be/NHs92Eh1y90)
+- [Keras ile Resim Sınıflandırma](https://youtu.be/cXjMrIiCJMA)
+- [Keras Functional API Kullanımı](https://youtu.be/IvpG5om38cw)
 - [TensorFlow ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TensorFlow ile Resim Sınıflandırma](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TensorFlow ile Duygu Analizi](https://www.youtube.com/watch?v=XtHL13mBBIk)
@@ -48,8 +50,8 @@ If you like this repo, don't forget to give me a ✨.
 
 ## [![](https://img.shields.io/badge/Medium-Turkish-darkorange?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-- [Keras Functional API Kullanımı](https://medium.com/@tirendazakademi/keras-ile-kompleks-derin-öğrenme-modelleri-112d0da45af7)
 - [Derin Öğrenme için Yapay Sinir Ağları](https://medium.com/@tirendazakademi/derin-öğrenme-için-yapay-sinir-ağları-24edd662dc73)
+- [Keras Functional API Kullanımı](https://medium.com/@tirendazakademi/keras-ile-kompleks-derin-öğrenme-modelleri-112d0da45af7)
 - [TensorFlow ile Derin Öğrenmeye Giriş](https://tirendazakademi.medium.com/tensorflow-2-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-a1cb466a473c)
 - [TensorFlow ile Resim Sınıflandırma](https://tirendazakademi.medium.com/tensorflow-2-ile-resim-s%C4%B1n%C4%B1fland%C4%B1rma-ae9670390254)
 - [TensorFlow ile Doğal Dil İşlemeye (NLP) Giriş](https://tirendazakademi.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-nlp-giri%C5%9F-214182725629)
