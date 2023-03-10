@@ -43,6 +43,7 @@ If you like this repo, don't forget to give me a ✨.
 - [Python ile Yapay Sinir Ağları](https://youtu.be/NHs92Eh1y90)
 - [Keras ile Resim Sınıflandırma](https://youtu.be/cXjMrIiCJMA)
 - [Keras Functional API Kullanımı](https://youtu.be/IvpG5om38cw)
+- [Keras Subclassing API ile Katman Oluşturma](https://youtu.be/Er71Yf3aJts)
 - [TensorFlow ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TensorFlow ile Resim Sınıflandırma](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TensorFlow ile Duygu Analizi](https://www.youtube.com/watch?v=XtHL13mBBIk)
@@ -52,6 +53,7 @@ If you like this repo, don't forget to give me a ✨.
 
 - [Derin Öğrenme için Yapay Sinir Ağları](https://medium.com/@tirendazakademi/derin-öğrenme-için-yapay-sinir-ağları-24edd662dc73)
 - [Keras Functional API Kullanımı](https://medium.com/@tirendazakademi/keras-ile-kompleks-derin-öğrenme-modelleri-112d0da45af7)
+- [Keras Subclassing API ile Derin Öğrenme Katmanları](https://medium.com/@tirendazakademi/keras-subclassing-api-ile-derin-öğrenme-katmanları-9aaedfff2a0c)
 - [TensorFlow ile Derin Öğrenmeye Giriş](https://tirendazakademi.medium.com/tensorflow-2-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-a1cb466a473c)
 - [TensorFlow ile Resim Sınıflandırma](https://tirendazakademi.medium.com/tensorflow-2-ile-resim-s%C4%B1n%C4%B1fland%C4%B1rma-ae9670390254)
 - [TensorFlow ile Doğal Dil İşlemeye (NLP) Giriş](https://tirendazakademi.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-nlp-giri%C5%9F-214182725629)
