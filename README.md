@@ -40,6 +40,7 @@ If you like this repo, don't forget to give me a ✨.
 
 ## [![](https://img.shields.io/badge/YouTube-Turkish-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAkademi)
 
+- [Derin Öğrenmeye ilk Adım](https://youtu.be/u-ZqOSrM3Ko)
 - [Python ile Yapay Sinir Ağları](https://youtu.be/NHs92Eh1y90)
 - [Keras ile Resim Sınıflandırma](https://youtu.be/cXjMrIiCJMA)
 - [Keras Functional API Kullanımı](https://youtu.be/IvpG5om38cw)
