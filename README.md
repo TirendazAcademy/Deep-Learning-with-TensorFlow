@@ -52,6 +52,7 @@ If you like this repo, don't forget to give me a ✨.
 
 ## [![](https://img.shields.io/badge/Medium-Turkish-darkorange?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
+- [Derin Öğrenme Yol Haritası](https://medium.com/@tirendazakademi/derin-öğrenme-yol-haritası-9fb9f90f5f17)
 - [Derin Öğrenme için Yapay Sinir Ağları](https://medium.com/@tirendazakademi/derin-öğrenme-için-yapay-sinir-ağları-24edd662dc73)
 - [Keras Functional API Kullanımı](https://medium.com/@tirendazakademi/keras-ile-kompleks-derin-öğrenme-modelleri-112d0da45af7)
 - [Keras Subclassing API ile Derin Öğrenme Katmanları](https://medium.com/@tirendazakademi/keras-subclassing-api-ile-derin-öğrenme-katmanları-9aaedfff2a0c)
