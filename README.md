@@ -22,6 +22,7 @@ If you like this repo, don't forget to give me a ✨.
 
 ## [![](https://img.shields.io/badge/YouTube-English-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 
+- [Getting started with deep learning](https://youtu.be/b0Y-7dv3ZXo)
 - [Artificial Neural Networks Explained](https://youtu.be/eOeKEOGlOf0)
 - [ANN with Python](https://youtu.be/2CmFgOPeFFM)
 - [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
