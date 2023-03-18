@@ -32,6 +32,7 @@ If you like this repo, don't forget to give me a ✨.
 
 ## [![](https://img.shields.io/badge/Medium-English-darkorange?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
+- [Deep Learning Roadmap with Python](https://medium.com/geekculture/deep-learning-roadmap-with-python-4086642e6016)
 - [Introduction to Deep Learning with TensorFlow](https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------)
 - [Image Classification with TensorFlow](https://tirendazacademy.medium.com/image-classification-with-tensorflow-2-54fc601dfb6a)
 - [Sentiment Analysis with TensorFlow Hub](https://tirendazacademy.medium.com/sentiment-analysis-with-tensorflow-hub-678c30ac79a2)
