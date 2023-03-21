@@ -28,6 +28,7 @@ If you like this repo, don't forget to give me a ✨.
 - [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
 - [ANNs with Python](https://youtu.be/2CmFgOPeFFM)
 - [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
+- [How to Create Custom Layers with the KERAS SUBCLASSING API](https://youtu.be/yJgSGE2-L_o)
 - [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 
 ## [![](https://img.shields.io/badge/Medium-English-darkorange?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
