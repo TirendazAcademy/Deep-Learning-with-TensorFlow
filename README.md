@@ -37,6 +37,7 @@ If you like this repo, don't forget to give me a ✨.
 - [Introduction to Deep Learning with TensorFlow](https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------)
 - [Image Classification with TensorFlow](https://tirendazacademy.medium.com/image-classification-with-tensorflow-2-54fc601dfb6a)
 - [Sentiment Analysis with TensorFlow Hub](https://tirendazacademy.medium.com/sentiment-analysis-with-tensorflow-hub-678c30ac79a2)
+- [Custom Layer with Keras in TensorFlow](https://medium.com/mlearning-ai/creating-custom-layers-with-the-keras-subclassing-api-c84f6ee4bdaf)
 - [Data Pipeline with TensorFlow](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2?source=your_stories_page-------------------------------------)
 - [7 Differences Between Deep Learning and Machine Learning](https://levelup.gitconnected.com/7-differences-between-deep-learning-and-machine-learningb5f2ff0ae00a?source=your_stories_page-------------------------------------)
 - [ANNs in Machine Learning](https://medium.com/mlearning-ai/artificial-neural-networks-in-machine-learning-fa653d74b1a1)
