@@ -26,8 +26,6 @@ If you like this repo, don't forget to give me a ✨.
 - [Artificial Neural Networks Explained](https://youtu.be/eOeKEOGlOf0)
 - [ANN with Python](https://youtu.be/2CmFgOPeFFM)
 - [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
-- [ANNs with Python](https://youtu.be/2CmFgOPeFFM)
-- [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
 - [Custom Layers with Keras in TensorFlow](https://youtu.be/yJgSGE2-L_o)
 - [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 
