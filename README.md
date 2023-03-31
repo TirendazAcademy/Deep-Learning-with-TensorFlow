@@ -20,7 +20,7 @@ Whether you're a beginner or an experienced deep learning practitioner, this rep
 
 If you like this repo, don't forget to give me a ✨.
 
-## [![](https://img.shields.io/badge/YouTube-English-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 
 - [Getting started with deep learning](https://youtu.be/b0Y-7dv3ZXo)
 - [Artificial Neural Networks Explained](https://youtu.be/eOeKEOGlOf0)
@@ -29,18 +29,19 @@ If you like this repo, don't forget to give me a ✨.
 - [Custom Layers with Keras in TensorFlow](https://youtu.be/yJgSGE2-L_o)
 - [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 
-## [![](https://img.shields.io/badge/Medium-English-darkorange?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+[![](https://img.shields.io/badge/Medium-6F1AB6?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
 - [Deep Learning Roadmap with Python](https://medium.com/geekculture/deep-learning-roadmap-with-python-4086642e6016)
 - [Introduction to Deep Learning with TensorFlow](https://tirendazacademy.medium.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=your_stories_page-------------------------------------)
 - [Image Classification with TensorFlow](https://tirendazacademy.medium.com/image-classification-with-tensorflow-2-54fc601dfb6a)
 - [Sentiment Analysis with TensorFlow Hub](https://tirendazacademy.medium.com/sentiment-analysis-with-tensorflow-hub-678c30ac79a2)
 - [Custom Layer with Keras in TensorFlow](https://medium.com/mlearning-ai/creating-custom-layers-with-the-keras-subclassing-api-c84f6ee4bdaf)
+- [Model Subclassing with Keras](https://medium.com/gitconnected/model-subclassing-with-keras-d2bc3bb38ff5)
 - [Data Pipeline with TensorFlow](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2?source=your_stories_page-------------------------------------)
 - [Deep Learning vs Machine Learning](https://levelup.gitconnected.com/7-differences-between-deep-learning-and-machine-learningb5f2ff0ae00a?source=your_stories_page-------------------------------------)
 - [ANNs in Machine Learning](https://medium.com/mlearning-ai/artificial-neural-networks-in-machine-learning-fa653d74b1a1)
 
-## [![](https://img.shields.io/badge/YouTube-Turkish-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAkademi)
+[![](https://img.shields.io/badge/YouTube-Turkish-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAkademi)
 
 - [Derin Öğrenmeye ilk Adım](https://youtu.be/u-ZqOSrM3Ko)
 - [Python ile Yapay Sinir Ağları](https://youtu.be/NHs92Eh1y90)
@@ -53,7 +54,7 @@ If you like this repo, don't forget to give me a ✨.
 - [TensorFlow ile Duygu Analizi](https://www.youtube.com/watch?v=XtHL13mBBIk)
 - [TensorFlow ile Yapay Zeka Eğitimi](https://youtu.be/_M_LgQYyKxQ)
 
-## [![](https://img.shields.io/badge/Medium-Turkish-darkorange?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
+[![](https://img.shields.io/badge/Medium-Turkish-6F1AB6?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
 - [Derin Öğrenme Yol Haritası](https://medium.com/@tirendazakademi/derin-öğrenme-yol-haritası-9fb9f90f5f17)
 - [Derin Öğrenme için Yapay Sinir Ağları](https://medium.com/@tirendazakademi/derin-öğrenme-için-yapay-sinir-ağları-24edd662dc73)
