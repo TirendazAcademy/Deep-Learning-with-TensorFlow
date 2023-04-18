@@ -37,6 +37,7 @@ If you like this repo, don't forget to give me a ✨.
 - [Sentiment Analysis with TensorFlow Hub](https://tirendazacademy.medium.com/sentiment-analysis-with-tensorflow-hub-678c30ac79a2)
 - [Custom Layer with Keras in TensorFlow](https://medium.com/mlearning-ai/creating-custom-layers-with-the-keras-subclassing-api-c84f6ee4bdaf)
 - [Model Subclassing with Keras](https://medium.com/gitconnected/model-subclassing-with-keras-d2bc3bb38ff5)
+- [How to Save and Load Deep Learning Models with Keras?](https://medium.com/towards-artificial-intelligence/how-to-save-and-load-deep-learning-models-with-keras-c439ab9b6f78)
 - [Data Pipeline with TensorFlow](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2?source=your_stories_page-------------------------------------)
 - [Deep Learning vs Machine Learning](https://levelup.gitconnected.com/7-differences-between-deep-learning-and-machine-learningb5f2ff0ae00a?source=your_stories_page-------------------------------------)
 - [ANNs in Machine Learning](https://medium.com/mlearning-ai/artificial-neural-networks-in-machine-learning-fa653d74b1a1)
