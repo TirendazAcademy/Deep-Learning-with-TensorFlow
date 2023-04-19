@@ -28,6 +28,7 @@ If you like this repo, don't forget to give me a ✨.
 - [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
 - [Custom Layers with Keras in TensorFlow](https://youtu.be/yJgSGE2-L_o)
 - [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
+- [How to Save & Load Models?](https://youtu.be/jHiotWzvnNM)
 
 [![](https://img.shields.io/badge/Medium-6F1AB6?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
