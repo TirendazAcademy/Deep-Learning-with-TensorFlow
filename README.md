@@ -22,6 +22,7 @@ If you like this repo, don't forget to give me a ✨.
 
 [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 
+- [TensorFlow in 10 Minutes](https://youtu.be/3rLs_BOuL80)
 - [Getting started with deep learning](https://youtu.be/b0Y-7dv3ZXo)
 - [Artificial Neural Networks Explained](https://youtu.be/eOeKEOGlOf0)
 - [ANN with Python](https://youtu.be/2CmFgOPeFFM)
@@ -55,6 +56,7 @@ If you like this repo, don't forget to give me a ✨.
 - [TensorFlow ile Resim Sınıflandırma](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TensorFlow ile Duygu Analizi](https://www.youtube.com/watch?v=XtHL13mBBIk)
 - [TensorFlow ile Yapay Zeka Eğitimi](https://youtu.be/_M_LgQYyKxQ)
+- [1 Videoda TensorFlow Öğren](https://youtu.be/6g-L84G5PHU)
 
 [![](https://img.shields.io/badge/Medium-Turkish-6F1AB6?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
